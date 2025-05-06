@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Clouds Mix';
+    src: url('./font/Clouds Mix.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Clouds Mix', 'Arial', sans-serif;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
