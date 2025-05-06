@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Clouds Mix';
-    src: url('./font/Clouds Mix.ttf') format('truetype');
+    font-family: 'Mafia Mix';
+    src: url('./fonts/Mafia Mix.ttf') format('truetype');
 }
 
 body {
@@ -57,7 +57,8 @@ body {
 }
 
 .section h2 {
-    font-size: 1.8rem;
+    font-family: 'Mafia Mix';
+    font-size: 2.8rem;
     margin: 0;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
